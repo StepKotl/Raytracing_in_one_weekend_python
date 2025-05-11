@@ -2,7 +2,7 @@
 
 This project is complete
 
-[The document I made, explaining some of the math behind the Ray Tracer](Final-Math-IA.pdf)
+[The document I made, explaining some of the math behind the Ray Tracer](Final-Math-IA-2024.pdf)
 
 
 If I were to do this project again:
